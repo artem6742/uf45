@@ -1,0 +1,116 @@
+.main{
+    background: url('../img/main.png') no-repeat center center / cover;
+padding: 90px 0 155px 0;
+display: flex;
+flex-direction: column;
+align-items:center ;
+
+}
+
+.logo{
+    margin-bottom: 202px;
+
+}
+.pre_title{
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0;
+
+}
+.pre_title_block{
+    background: #fff;
+    padding: 8px 17px;
+    border-radius: 78px;
+    margin-bottom: 24px;
+}
+.title{
+    font-family: montserrat;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 60px;
+    margin: 0;
+    margin-bottom: 24px;
+    
+
+}
+.text{
+    font-family: montserrat;
+    font-weight: 500;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 24px;
+
+}
+.ling{
+    font-family: montserrat;
+    font-weight: 800;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: none;
+
+}
+
+.ling_block{
+    background: #FF7E36;
+    padding:18px 52px ;
+    border-radius: 78px;
+    margin-bottom: 140px;
+
+}
+
+
+/* 2 secton */
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.title2{
+    font-family: Montserrat;
+    font-weight:800;
+    font-size: 30px;
+    color: #304041;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ways{
+    padding-top: 155px; 
+}
+.ways_title2{
+    margin-bottom: 98px;
+}
+.ways__subtitle{
+    font-size: 24px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+.ways_box{
+    display: flex;
+    margin-bottom: 90px;
+
+}
+.ways_texts{
+    background: #fff;
+    padding: 110px 75px ;
+    background: #e7e4c3;
+}
+.ways_btn{
+    color: #FF7E36;
+    font-weight: 800;
+    font-size: 16px;
+    font-family: Montserrat;
+    text-decoration: none;
+    padding: 17px 49px;
+    border: 1px solid #FF7E36;
+    border-radius: 78px;
+}
+.ways_button{
+    text-align: center;
+}
